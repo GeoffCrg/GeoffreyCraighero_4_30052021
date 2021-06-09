@@ -655,7 +655,9 @@ a {
   font-weight: 400;
   color: #575757 !important;
 }
-
+ p{
+   font-weight: 600;
+ }
 .container {
   max-width: 1000px;
 }
@@ -709,6 +711,7 @@ p {
 h2 {
   font-size: 22px;
   line-height: 1.4em;
+  font-weight: 700;
 }
 
 h3 {
@@ -777,7 +780,8 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #f58450 !important;
+  font-size: 28px;
 }
 
 .btn-atomic-tangerine {
